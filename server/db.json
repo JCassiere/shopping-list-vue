@@ -1,0 +1,12 @@
+{
+  "shoppinglists": [
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "styleObject": {
+        "backgroundColor": "green"
+      },
+      "id": 1
+    }
+  ]
+}
